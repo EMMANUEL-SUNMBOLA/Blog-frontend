@@ -83,6 +83,11 @@ main {
   }
 }
 
+#cont{
+  margin-top: 100px;
+  outline: 1px solid blue;
+}
+
 @media (max-width: 650px) {
   .gridcont {
     margin: 20px 0px 10px 4%;
